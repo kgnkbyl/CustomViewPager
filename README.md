@@ -4,6 +4,8 @@ CustomViewPager
 This is a Custom ViewPager that provides custom pager animation.
 Current native pager does not provide various animations while paging event. So i have made my own pager without using the native pager.
 
+Link: http://youtu.be/SuPari76_wM
+
 Implementation
 ===============
 
