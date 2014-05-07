@@ -52,6 +52,14 @@ Tips
 I created the pager just for a xhdpi device. In dimens folder you can resize the pager for other resolutions. 
 
 
+Last Words
+===============
+
+In this project a third party library called "nineoldandroids" is used to make smooth animations.
+
+You can also see the video to know how the pager works.
+Link: http://youtu.be/SuPari76_wM
+
 
 
 
