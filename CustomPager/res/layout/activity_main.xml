@@ -1,0 +1,39 @@
+<ScrollView 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:fillViewport="true"
+    android:id="@+id/scroll"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<RelativeLayout
+	    xmlns:tools="http://schemas.android.com/tools"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:id="@+id/main"
+	    tools:context=".MainActivity" >
+	
+	    <RelativeLayout 
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/cardsLayout"
+	        android:layout_centerInParent="true">
+	        </RelativeLayout>
+	        
+	    <Button 
+	        android:layout_width="150dp"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/next"
+	        android:text="Next"
+	        android:layout_alignParentBottom="true"
+	        android:layout_alignParentRight="true"/>
+	    <Button 
+	        android:layout_width="150dp"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/previous"
+	        android:text="Previous"
+	        android:layout_alignParentBottom="true"
+	        android:layout_alignParentLeft="true"/>
+	  
+	</RelativeLayout>
+    
+</ScrollView>

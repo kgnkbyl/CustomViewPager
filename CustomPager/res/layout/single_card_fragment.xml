@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content">
+
+	<ImageView
+	    android:background="@drawable/card_image"
+	    android:id="@+id/cardImage"
+	    android:layout_width="@dimen/card_image_width"
+	    android:layout_height="@dimen/card_image_height"/>
+
+</RelativeLayout>
